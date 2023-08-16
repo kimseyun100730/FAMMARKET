@@ -1,8 +1,13 @@
 /* Reset some default styles */
-body, h1, h2, p {
+body, h1 {
     margin: 0;
     padding: 0;
     color: #ffffff;
+}
+h2, p {
+    margin: 0;
+    padding: 0;
+    color: #000000;
 }
 
 body {
